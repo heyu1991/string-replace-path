@@ -1,6 +1,6 @@
 {
   "name": "string-replace-path",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于webpack批量替换文件，支持相对路径替换",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "author": "664475324@qq.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/heyu1991/string-replace-path/issues"
+    "url": "https://github.com/heyuuuu/string-replace-path/issues"
   },
-  "homepage": "https://github.com/heyu1991/string-replace-path#readme"
+  "homepage": "https://github.com/heyuuuu/string-replace-path#readme"
 }
