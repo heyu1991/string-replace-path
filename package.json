@@ -1,6 +1,6 @@
 {
   "name": "string-replace-path",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "基于webpack批量替换文件，支持相对路径替换",
   "main": "index.js",
   "scripts": {
